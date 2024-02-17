@@ -20,7 +20,7 @@ list_of_files =[
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "expetiment/experiments.py"        
+    "experiment/experiments.ipynb"        
 ]
 
 for filepath in list_of_files:
